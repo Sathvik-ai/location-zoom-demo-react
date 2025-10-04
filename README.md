@@ -75,7 +75,7 @@ npm start
 
 ## Features
 
-### 🌌 Realistic Solar System Animation
+###  Realistic Solar System Animation
 - **All 9 planets** (Mercury to Pluto) with accurate colors and sizes
 - **Top-down view** that smoothly rotates to side view
 - **3D camera transitions** using CSS transforms
@@ -84,12 +84,12 @@ npm start
 - Pulsing sun with realistic lighting
 - Twinkling stars background
 
-### 🌍 Earth Transition
+###  Earth Transition
 - Rotating Earth globe with atmosphere
 - Smooth zoom from space into Earth's atmosphere
 - Cinematic entry animation
 
-### 🗺️ 8-Level Zoom Sequence
+###  8-Level Zoom Sequence
 1. **Planet Earth** - Global view
 2. **Continent** - Auto-detected (Asia, Europe, Africa, Americas, Australia)
 3. **Country** - Your country name
@@ -99,13 +99,13 @@ npm start
 7. **Your Location** - Street-level view with marker
 8. **Coordinates** - Precise latitude & longitude (6 decimal places)
 
-### 📍 GPS Location Detection
+###  GPS Location Detection
 - Automatic GPS detection on app load
 - Browser Geolocation API
 - Fallback to default location if permission denied
 - Real-time location information from backend API
 
-### 🎮 User Interface
+### User Interface
 - Clean, intuitive controls
 - "Start Journey" button to begin animation
 - "Replay" button to watch again
@@ -202,10 +202,10 @@ PORT=5000
 ## Browser Compatibility
 
 Works best on modern browsers:
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Edge (latest)
-- ✅ Safari (latest)
+-  Chrome (latest)
+-  Firefox (latest)
+-  Edge (latest)
+-  Safari (latest)
 
 Requires JavaScript and Geolocation API support.
 
